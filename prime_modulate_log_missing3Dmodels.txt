@@ -1,3 +1,1 @@
-Can not find model defined with enviroment variable (/usr/share/kicad/3dmodels/ :
-/Users/danny/syncproj/kicad-libs/footprints/Keebio-Parts.pretty/3dmodels/SK6812MINI-E v1.step
-[('D57', '/Users/danny/syncproj/kicad-libs/footprints/Keebio-Parts.pretty/3dmodels/SK6812MINI-E v1.step')]
+[]

@@ -1,10 +1,9 @@
-### Missing 3D models - created on 2024-12-23 23:44
+### Missing 3D models - created on 2024-12-29 01:04
 ### Printed by checking_3D_models plugin
 Board file: /home/boggle/Projects/prime_modulate/prime_modulate.kicad_pcb
 3D missing models written to:
 /home/boggle/Projects/prime_modulate/prime_modulate_missing3Dmodels.txt
 -------
-('D57', '/Users/danny/syncproj/kicad-libs/footprints/Keebio-Parts.pretty/3dmodels/SK6812MINI-E v1.step')
 -------
-NUM of 3D missing models:1
+NUM of 3D missing models:0
 checked extensions ['.stp', '.step', '.stpZ']
